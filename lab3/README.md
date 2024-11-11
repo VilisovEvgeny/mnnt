@@ -4,8 +4,16 @@
 Ссылка: https://www.kaggle.com/datasets/sujaykapadnis/smoking
 
 Архитектура CNN:  
-![image](https://github.com/Ga1ahahad/susu-modern-nn-2/assets/90559631/fdb9c22a-32ce-42b0-b53f-fbca4dc96a64)  
+Построена по аналогии с [LeNet](https://arxiv.org/abs/2301.04275)
+![image](https://github.com/user-attachments/assets/066f4bf4-c6be-4c56-aeeb-6e201888b9c3)
   
 Функция потерь: бинарная кроссэнтропия, оптимизатор - Адам, lr=0.001.  
 
-Результаты: Epoch: 40, acc: 0.6166666746139526, loss = 0.30926278233528137, samples = 672 на валидационном датасете.
+Результат работы модели на тестовых данных:
+
+Accuracy: 0.4575
+Precision: 0.5033
+Recall: 0.4550
+
+![image](https://github.com/user-attachments/assets/e3697ffd-4ab1-4468-aa01-74fa43289fbf)
+
