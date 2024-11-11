@@ -1,6 +1,6 @@
-# Лабораторная работа 2
+# Лабораторная работа 3
 
-Датасет: Smoker Detection [Image] classification Dataset. Бинарная классификация есть на изображении курильщик или нет. Картинки 250x250 цветные.  
+Датасет: 7,000 Labeled Pokemon.  
 Ссылка: https://www.kaggle.com/datasets/sujaykapadnis/smoking
 
 Архитектура CNN:  
