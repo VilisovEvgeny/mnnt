@@ -1,11 +1,11 @@
 # Лабораторная работа 2
 
-Датасет: Smoker Detection [Image] classification Dataset. Бинарная классификация есть на изображении курильщик или нет. Картинки 250x250 цветные.  
-Ссылка: https://www.kaggle.com/datasets/sujaykapadnis/smoking
+Датасет: 7,000 Labeled Pokemon.  
+Ссылка: https://www.kaggle.com/datasets/lantian773030/pokemonclassification/data
 
-Архитектура CNN:  
-![image](https://github.com/Ga1ahahad/susu-modern-nn-2/assets/90559631/fdb9c22a-32ce-42b0-b53f-fbca4dc96a64)  
+Архитектура fully connected network:  
+![image](https://github.com/user-attachments/assets/c2626cb4-eafa-4b43-ae83-e5a88938feca)
   
 Функция потерь: бинарная кроссэнтропия, оптимизатор - Адам, lr=0.001.  
 
-Результаты: Epoch: 40, acc: 0.6166666746139526, loss = 0.30926278233528137, samples = 672 на валидационном датасете.
+Результаты: Epoch: 10, acc: 0.0169, loss = 4.98
